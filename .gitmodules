@@ -1,0 +1,9 @@
+[submodule "chronohub-frontend"]
+	path = chronohub-frontend
+	url = https://github.com/dinhngocduy2000/chronohub-frontend.git
+[submodule "chronohub-backend"]
+	path = chronohub-backend
+	url = https://github.com/dinhngocduy2000/chronohub-backend.git
+[submodule "deployment"]
+	path = deployment
+	url = https://github.com/dinhngocduy2000/chronohub-deployment.git
